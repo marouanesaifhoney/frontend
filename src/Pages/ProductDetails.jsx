@@ -41,14 +41,16 @@ export default function ProductDetails() {
 
   return (
     <div>
-            <Helmet>
-        <title>{product.name} | Sultan Market</title>
-        <meta
-          name="description"
-          content={`Achetez ${product.name} sur Sultan Market, boutique en ligne au Maroc. ${product.description}`}
-        />
-        <meta name="keywords" content={`Sultan market, ${product.name}, produits locaux, e-commerce`} />
-      </Helmet>
+      {product && (
+        <Helmet>
+          <title>{product.name} | Sultan Market</title>
+          <meta
+            name="description"
+            content={`Achetez ${product.name} sur Sultan Market, boutique en ligne au Maroc. ${product.description}`}
+          />
+          <meta name="keywords" content={`Sultan market, ${product.name}, produits locaux, e-commerce`} />
+        </Helmet>
+      )}
       <Header />
       <motion.section
         initial={{ opacity: 0, y: 18 }}
