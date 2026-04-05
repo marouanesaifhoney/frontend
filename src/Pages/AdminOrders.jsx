@@ -3,7 +3,6 @@ import { motion } from "framer-motion";
 import { getAdminOrders, updateAdminOrderComment, updateAdminOrderStatus } from "../services/api";
 import { useI18n } from "../Components/I18nProvider";
 import { toServerUrl } from "../services/api";
-import { Helmet } from "react-helmet";
 function toStatusOptions(t) {
   return [
     { value: "ordered", label: t("orderStatusOrdered") },

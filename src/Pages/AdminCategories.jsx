@@ -5,7 +5,6 @@ import { useI18n } from "../Components/I18nProvider";
 import { toServerUrl } from "../services/api";
 import ImageCropModal from "../Components/ImageCropModal";
 import AdminTable from "../Components/AdminTable";
-import { Helmet } from "react-helmet";
 const emptyForm = { name: "", description: "", parentId: "", image: null, currentImage: "" };
 
 export default function AdminCategories() {
