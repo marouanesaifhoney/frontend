@@ -68,7 +68,7 @@ const Header = ({ showCategories = true }) => {
     <header className={`topbar ${isOpen ? "topbar-open" : ""}`}>
       <div className="topbar-inner">
         <Link className="brand" to="/">
-          <img className="brand-mark" src={marklogo} alt="BeldiMarket" />
+          <img className="brand-mark" src={marklogo} alt="SultanMarket" />
           <span className="brand-text">{t("brandMarket")}</span>
         </Link>
 

@@ -8,12 +8,12 @@ const Contact = () => {
   return (
     <div>
             <Helmet>
-        <title>Beldi Market | Contacts</title>
+        <title>Sultan Market | Contacts</title>
         <meta
           name="description"
-          content="Contactez Beldi Market, votre boutique en ligne au Maroc."
+          content="Contactez Sultan Market, votre boutique en ligne au Maroc."
         />
-        <meta name="keywords" content="beldi market, produits, e-commerce, maroc, miel, artisanat" />
+        <meta name="keywords" content="Sultan market, produits, e-commerce, maroc, miel, artisanat" />
       </Helmet>
       <Header />
       <motion.section
@@ -28,7 +28,7 @@ const Contact = () => {
           <div className="contact-info">
             <div className="contact-item">
               <h3>{t('contactEmail')}</h3>
-              <p>marouane@beldimarket.ma</p>
+              <p>marouane@Sultanmarket.ma</p>
             </div>
             <div className="contact-item">
               <h3>{t('contactPhone')}</h3>

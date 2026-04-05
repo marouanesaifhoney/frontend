@@ -9,12 +9,12 @@ const Products = () => {
   return (
     <div>
                <Helmet>
-        <title>Beldi Market | Tous les produits</title>
+        <title>Sultan Market | Tous les produits</title>
         <meta
           name="description"
-          content="Découvrez tous les produits disponibles sur Beldi Market, votre boutique en ligne au Maroc."
+          content="Découvrez tous les produits disponibles sur Sultan Market, votre boutique en ligne au Maroc."
         />
-        <meta name="keywords" content="beldi market, produits, e-commerce, maroc, miel, artisanat" />
+        <meta name="keywords" content="Sultan market, produits, e-commerce, maroc, miel, artisanat" />
       </Helmet>
       <Header />
       <motion.section

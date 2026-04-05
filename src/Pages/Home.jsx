@@ -25,14 +25,14 @@ const Home = () => {
     <div>
          {/* 🏷 SEO */}
       <Helmet>
-        <title>Beldi Market | Boutique en ligne au Maroc</title>
+        <title>Sultan Market | Boutique en ligne au Maroc</title>
         <meta
           name="description"
-          content="Beldi Market, votre boutique en ligne au Maroc. Produits locaux, livraison rapide."
+          content="Sultan Market, votre boutique en ligne au Maroc. Produits locaux, livraison rapide."
         />
         <meta
           name="keywords"
-          content="beldi market, maroc, e-commerce, produits locaux, miel, artisanat"
+          content="Sultan market, maroc, e-commerce, produits locaux, miel, artisanat"
         />
       </Helmet>
       <Header />

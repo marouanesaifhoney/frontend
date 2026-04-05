@@ -146,12 +146,12 @@ export default function Category() {
     <div>
 
        <Helmet>
-        <title>Beldi Market | Catégories</title>
+        <title>Sultan Market | Catégories</title>
         <meta
           name="description"
-          content="Catégories  Beldi Market, votre boutique en ligne au Maroc."
+          content="Catégories  Sultan Market, votre boutique en ligne au Maroc."
         />
-        <meta name="keywords" content="beldi market, produits, e-commerce, maroc, miel, artisanat" />
+        <meta name="keywords" content="Sultan market, produits, e-commerce, maroc, miel, artisanat" />
       </Helmet>
       <Header />
       <HeroStatic />

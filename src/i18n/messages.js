@@ -1,7 +1,7 @@
 export const messages = {
   ar: {
-    brand: "بلدي Market",
-    brandMarket: "بلدي Market",
+    brand: "سلطان Market",
+    brandMarket: "سلطان Market",
     ourStory: "قصتنا",
     shopNow: "تسوق الآن",
     admin: "لوحة الإدارة",
@@ -59,9 +59,9 @@ export const messages = {
     ctaFootnote: "لا رسائل مزعجة. فقط إصدارات موسمية ووصفات.",
     footerShop: "المتجر",
     footerQuick: "روابط سريعة",
-    footerAbout: "عن BeldiMarket",
+    footerAbout: "عن SultanMarket",
     footerCopy: "جميع الحقوق محفوظة",
-    aboutTitle: "عن BeldiMarket",
+    aboutTitle: "عن SultanMarket",
     aboutTxt1:
       "بدأت رحلتنا بشغف للعسل النقي والتزام بتربية النحل المستدامة.",
     aboutTxt2:
@@ -220,8 +220,8 @@ export const messages = {
     authError: "حدث خطأ، حاول مرة أخرى.",
   },
   en: {
-    brand: "BeldiMarket",
-    brandMarket: "BeldiMarket",
+    brand: "Sultan Market",
+    brandMarket: "Sultan Market",
     ourStory: "Our Story",
     shopNow: "Shop Now",
     admin: "Admin",
@@ -279,9 +279,9 @@ export const messages = {
     ctaFootnote: "No spam. Just seasonal drops and recipes.",
     footerShop: "Shop",
     footerQuick: "Quick links",
-    footerAbout: "About BeldiMarket",
+    footerAbout: "About SultanMarket",
     footerCopy: "All rights reserved",
-    aboutTitle: "About BeldiMarket",
+    aboutTitle: "About SultanMarket",
     aboutTxt1:
       "Our journey began with a passion for pure honey and a commitment to sustainable beekeeping.",
     aboutTxt2:
@@ -367,7 +367,7 @@ export const messages = {
 	    adminOrders: "Manage orders",
 	    adminSettings: "Settings",
 	    dashboardTitle: "Dashboard",
-	    dashboardIntro: "Overview of your BeldiMarket app",
+	    dashboardIntro: "Overview of your SultanMarket app",
 	    orders: "Orders",
 	    totalOrders: "Total orders",
 	    ordersLast7Days: "Orders (last 7 days)",
@@ -448,8 +448,8 @@ export const messages = {
     langFr: "Français",
   },
   fr: {
-    brand: "BeldiMarket",
-    brandMarket: "BeldiMarket",
+    brand: "Sultan Market",
+    brandMarket: "Sultan Market",
     ourStory: "Notre histoire",
     shopNow: "Boutique",
     admin: "Admin",
@@ -507,9 +507,9 @@ export const messages = {
     ctaFootnote: "Pas de spam. Des sorties saisonnières et des recettes.",
     footerShop: "Boutique",
     footerQuick: "Liens rapides",
-    footerAbout: "À propos de BeldiMarket",
+    footerAbout: "À propos de SultanMarket",
     footerCopy: "Tous droits réservés",
-    aboutTitle: "À propos de BeldiMarket",
+    aboutTitle: "À propos de SultanMarket",
     aboutTxt1:
       "Notre aventure est née d'une passion pour le miel pur et l'apiculture durable.",
     aboutTxt2:
@@ -595,7 +595,7 @@ export const messages = {
 	    adminOrders: "Gérer les commandes",
 	    adminSettings: "Paramètres",
 	    dashboardTitle: "Tableau de bord",
-	    dashboardIntro: "Vue d'ensemble de BeldiMarket",
+	    dashboardIntro: "Vue d'ensemble de SultanMarket",
 	    orders: "Commandes",
 	    totalOrders: "Total commandes",
 	    ordersLast7Days: "Commandes (7 derniers jours)",
