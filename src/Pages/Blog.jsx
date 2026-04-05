@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import Header from "../Components/Header";
 import { useI18n } from "../Components/I18nProvider";
-
+import { Helmet } from "react-helmet";
 const Blog = () => {
   const { t } = useI18n();
   return (

@@ -6,7 +6,7 @@ import { useCart } from "../Components/CartProvider";
 import { useI18n } from "../Components/I18nProvider";
 import { useAuth } from "../Components/AuthProvider";
 import { checkoutCart, toServerUrl } from "../services/api";
-
+import { Helmet } from "react-helmet";
 export default function Cart() {
   const { t } = useI18n();
   const { user } = useAuth();

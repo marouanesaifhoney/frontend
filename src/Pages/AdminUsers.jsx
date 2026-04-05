@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import { createAdminUser, deleteAdminUser, getAdminUsers, updateAdminUser } from "../services/api";
 import { useI18n } from "../Components/I18nProvider";
 import AdminTable from "../Components/AdminTable";
-
+import { Helmet } from "react-helmet";
 const emptyForm = { username: "", email: "", password: "", role: "client" };
 
 export default function AdminUsers() {
