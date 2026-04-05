@@ -1,5 +1,5 @@
  //const API_BASE = process.env.REACT_APP_API_BASE || '/api'
-const API_BASE ='https://backend.up.railway.app/api';
+const API_BASE ='https://backend-production-4d9a.up.railway.app/api';
 let memoryToken = ''
 
 export function setAuthToken(token) {
